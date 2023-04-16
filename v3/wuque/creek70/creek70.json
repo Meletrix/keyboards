@@ -10,7 +10,7 @@
       "Split Backspace",
       "Split Right Shift",
       "Split Left Shift",
-      ["Bottom Row","ANSI","7U", "Split 7U"]
+      ["Bottom Row","ANSI", "Split", "7U"]
     ],
     "keymap": [
       [
